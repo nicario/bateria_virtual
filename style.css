@@ -1,0 +1,72 @@
+.h1__body{
+  text-align: center;
+}
+
+.div__body{
+  width: 100%;
+}
+
+.img__div{
+  width: 100%;
+}
+
+.div__div{
+  display: block;
+}
+
+.button__div{
+  border: none;
+  background-color: brown;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.div1__div .button__div{
+  position: absolute;
+  top: 50%;
+  left: 25%;
+}
+
+.div2__div .button__div{
+  position: absolute;
+  top: 40%;
+  left: 30%;
+}
+
+.div3__div .button__div{
+  position: absolute;
+  top: 60%;
+  left: 47%;
+}
+
+.div4__div .button__div{
+  position: absolute;
+  top: 40%;
+  left: 57%;
+}
+
+.div5__div .button__div{
+  position: absolute;
+  top: 52%;
+  left: 63%;
+}
+
+.div6__div .button__div{
+  position: absolute;
+  top: 30%;
+  left: 20%;
+}
+
+.div7__div .button__div{
+  position: absolute;
+  top: 30%;
+  left: 65%;
+}
+
+.div8__div .button__div{
+  position: absolute;
+  top: 47%;
+  left: 75%;
+}
+
